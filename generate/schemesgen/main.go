@@ -46,8 +46,8 @@ func schemeList() []string {
 		}
 		schemes = append(schemes, record[0])
 	}
-	// Add local Keybase app schemes.
-	schemes = append(schemes, "keybase", "web+stellar")
+	// Add local Keybase app scheme.
+	schemes = append(schemes, "keybase")
 	return schemes
 }
 

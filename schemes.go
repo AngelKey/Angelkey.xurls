@@ -319,5 +319,4 @@ var Schemes = []string{
 	`z39.50r`,
 	`z39.50s`,
 	`keybase`,
-	`web+stellar`,
 }
